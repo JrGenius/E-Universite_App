@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Arrow_-_Left_2_Background_Mask_" data-name="Arrow - Left 2 (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Arrow_-_Left_2" data-name="Arrow - Left 2" clip-path="url(#clip-path)">
+    <g id="Iconly_Light_Outline_Arrow_Left_2" data-name="Iconly/Light Outline/Arrow   Left 2" transform="translate(7.75 4.25)">
+      <g id="Arrow_Left_2" data-name="Arrow   Left 2" transform="translate(-3.5 3.5)">
+        <path id="Stroke_1" data-name="Stroke 1" d="M1.2.147,1.28.22,7.75,6.689,14.22.22A.75.75,0,0,1,15.2.147L15.28.22a.75.75,0,0,1,.073.977l-.073.084-7,7a.75.75,0,0,1-.977.073L7.22,8.28l-7-7A.75.75,0,0,1,1.2.147Z" transform="translate(12 -3.5) rotate(90)" fill="#1d2d3a"/>
+      </g>
+    </g>
+  </g>
+</svg>

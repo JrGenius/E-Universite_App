@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Star_Background_Mask_" data-name="Star (Background/Mask)" width="12" height="12" fill="#cfcfcf"/>
+    </clipPath>
+  </defs>
+  <g id="Star" clip-path="url(#clip-path)">
+    <g id="Iconly_Curved_Star" data-name="Iconly/Curved/Star" transform="translate(1.5 1.5)">
+      <g id="Star-2" data-name="Star">
+        <path id="Stroke_1" data-name="Stroke 1" d="M2.78,2.4C2.173,3.026.289,2.31.027,3.422S1.461,4.912,1.67,5.867s-.826,2.3.059,2.963,1.838-.843,2.77-.843S6.385,9.5,7.27,8.83s-.15-2.009.059-2.963,1.9-1.332,1.643-2.445S6.827,3.026,6.221,2.4,5.518,0,4.5,0,3.386,1.773,2.78,2.4Z" fill="#cfcfcf"/>
+      </g>
+    </g>
+  </g>
+</svg>

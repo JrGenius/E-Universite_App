@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Filter_Background_Mask_" data-name="Filter (Background/Mask)" width="16" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Filter" clip-path="url(#clip-path)">
+    <g id="Iconly_Light_Outline_Filter" data-name="Iconly/Light Outline/Filter" transform="translate(2 2.667)">
+      <g id="Filter-2" data-name="Filter">
+        <path id="Combined_Shape" data-name="Combined Shape" d="M7.516,8.536A2.075,2.075,0,1,1,9.592,10.6,2.073,2.073,0,0,1,7.516,8.536Zm-7,.526a.5.5,0,0,1,0-1h4.2a.5.5,0,0,1,0,1ZM0,2.065A2.075,2.075,0,1,1,2.075,4.128,2.073,2.073,0,0,1,0,2.065ZM6.594,2.6a.5.5,0,1,1,0-1h4.2a.5.5,0,1,1,0,1Z" fill="#43d477"/>
+      </g>
+    </g>
+  </g>
+</svg>

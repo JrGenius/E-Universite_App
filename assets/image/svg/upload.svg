@@ -1,0 +1,11 @@
+<svg id="Iconly_Bold_Upload" data-name="Iconly/Bold/Upload" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20.78" viewBox="0 0 20 20.78">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Upload">
+    <path id="Upload-2" data-name="Upload" d="M4.45,20.78A4.489,4.489,0,0,1,0,16.465l0-.213V11.288a4.485,4.485,0,0,1,4.231-4.5l.209,0H9.23v6.1a.769.769,0,0,0,1.533.107l.007-.107v-6.1h4.78A4.489,4.489,0,0,1,20,11.094l0,.213v4.955a4.487,4.487,0,0,1-4.231,4.513l-.209,0Zm4.781-14V2.64L7.64,4.24a.773.773,0,0,1-1.09,0,.763.763,0,0,1-.085-1L6.54,3.15,9.45.23A.764.764,0,0,1,10,0a.754.754,0,0,1,.45.149l.09.082,2.911,2.92a.771.771,0,0,1-1,1.165l-.085-.075-1.59-1.6V6.78Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

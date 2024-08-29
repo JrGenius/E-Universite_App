@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Profile_Background_Mask_" data-name="Profile (Background/Mask)" width="12" height="12" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Profile" clip-path="url(#clip-path)">
+    <g id="Iconly_Bold_Profile" data-name="Iconly/Bold/Profile" transform="translate(2 1)">
+      <g id="Profile-2" data-name="Profile">
+        <path id="Vector" d="M0,8.287c0-1.36,1.842-1.7,4-1.7S8,6.94,8,8.3,6.157,10,4,10,0,9.647,0,8.287ZM1.353,2.645A2.647,2.647,0,1,1,4,5.292,2.637,2.637,0,0,1,1.353,2.645Z" fill="#a9aeb2"/>
+      </g>
+    </g>
+  </g>
+</svg>

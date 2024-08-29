@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.997" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#18acfe"/>
+      <stop offset="1" stop-color="#0163e0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_730" data-name="Group 730" transform="translate(-2 -2)">
+    <g id="Facebook">
+      <circle id="bg" cx="14" cy="14" r="14" transform="translate(2 2)" fill="url(#linear-gradient)"/>
+      <path id="f" d="M11.836,8.33H7.945V5.767A2,2,0,0,1,10.23,3.631H12V.267A22.121,22.121,0,0,0,8.86,0c-3.205,0-5.3,1.893-5.3,5.318V8.33H0v3.951H3.562v9.553a14.594,14.594,0,0,0,4.384,0V12.282h3.268Z" transform="translate(10 8)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

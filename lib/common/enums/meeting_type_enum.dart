@@ -1,0 +1,4 @@
+enum MeetingTypes{
+  inPerson,
+  online
+}

@@ -1,0 +1,14 @@
+<svg id="google" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="google_Background_Mask_" data-name="google (Background/Mask)" width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="google_Background_Mask_2" data-name="google (Background/Mask)" width="32" height="32" fill="none"/>
+  <g id="google-2" data-name="google" clip-path="url(#clip-path)">
+    <path id="vector" d="M13.413,0H0V5.2H7.873A6.822,6.822,0,0,1,4.952,9.738l-.027.174,4.241,3.22.294.029a13.552,13.552,0,0,0,4.254-10.3A11.767,11.767,0,0,0,13.413,0Z" transform="translate(16.287 13.449)" fill="#4285f4"/>
+    <path id="vector-2" data-name="vector" d="M22.222,7.84,17.714,4.418a8.579,8.579,0,0,1-4.952,1.4A8.584,8.584,0,0,1,4.635,0L4.467.014.058,3.358,0,3.516a14.307,14.307,0,0,0,12.762,7.716A13.779,13.779,0,0,0,22.222,7.84Z" transform="translate(3.524 18.769)" fill="#34a853"/>
+    <path id="vector-3" data-name="vector" d="M5.683,6.353a8.892,8.892,0,0,1,.46-2.769L6.135,3.4,1.67,0,1.524.068a13.721,13.721,0,0,0,0,12.569L6.159,9.122A8.463,8.463,0,0,1,5.683,6.353Z" transform="translate(2.001 9.647)" fill="#fbbc05"/>
+    <path id="vector-4" data-name="vector" d="M18.286,7.5,22.317,3.64A13.879,13.879,0,0,0,12.762,0,14.307,14.307,0,0,0,0,7.715l4.619,3.516a8.62,8.62,0,0,1,8.143-5.818A8,8,0,0,1,18.286,7.5Z" transform="translate(3.524 2)" fill="#eb4335"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Group_4504" data-name="Group 4504" transform="translate(-113 -339)">
+    <rect id="Rectangle_1723" data-name="Rectangle 1723" width="150" height="150" transform="translate(113 339)" fill="none"/>
+    <path id="Path_7483" data-name="Path 7483" d="M503.785,1244.81a71.746,71.746,0,0,1-21.345,51.172,70.81,70.81,0,0,1-50.323,20.638,71.81,71.81,0,1,1,71.668-71.81Z" transform="translate(-243.519 -828.204)" fill="#eaeef9"/>
+    <path id="Path_7484" data-name="Path 7484" d="M459.145,1193.891a5.8,5.8,0,1,0-5.8-5.8A5.8,5.8,0,0,0,459.145,1193.891Z" transform="translate(-205.097 -824.358)" fill="#eaeef9"/>
+    <path id="Path_7485" data-name="Path 7485" d="M464.607,1176.816a3.958,3.958,0,1,0-3.958-3.958A3.964,3.964,0,0,0,464.607,1176.816Z" transform="translate(-229.643 -829.9)" fill="#eaeef9"/>
+    <path id="Path_7486" data-name="Path 7486" d="M363.207,1192.716a3.958,3.958,0,1,0-3.958-3.958A3.964,3.964,0,0,0,363.207,1192.716Z" transform="translate(-244.015 -823.324)" fill="#43d477" opacity="0.66"/>
+    <path id="Path_7487" data-name="Path 7487" d="M347.1,1248.7a7.351,7.351,0,1,0-7.351-7.351A7.353,7.353,0,0,0,347.1,1248.7Z" transform="translate(-223.949 -773.433)" fill="#eaeef9"/>
+    <path id="Path_7488" data-name="Path 7488" d="M476.2,1197.2v88.773a70.812,70.812,0,0,1-50.323,20.638,71.912,71.912,0,0,1-50.323-20.638V1197.2Z" transform="translate(-237.646 -818.195)" fill="#fff"/>
+    <path id="Path_7491" data-name="Path 7491" d="M444.4,1242.5H392.948v6.5H444.4Z" transform="translate(-230.077 -799.46)" fill="#d5dae5"/>
+    <path id="Path_7492" data-name="Path 7492" d="M444.4,1252.6H392.948v6.5H444.4Z" transform="translate(-230.077 -795.283)" fill="#d5dae5"/>
+    <path id="Path_7493" data-name="Path 7493" d="M428.141,1262.8H401.849v6.5h26.293Z" transform="translate(-226.396 -791.065)" fill="#d5dae5"/>
+    <g id="Iconly_Bulk_Lock" data-name="Iconly/Bulk/Lock" transform="translate(167.786 393.266)">
+      <g id="Lock" transform="translate(6.043 3.453)">
+        <path id="Fill_1" data-name="Fill 1" d="M21.983,22.94H7.371A7.3,7.3,0,0,1,0,15.733V7.209A7.3,7.3,0,0,1,7.371,0H21.983a7.3,7.3,0,0,1,7.371,7.209v8.524A7.3,7.3,0,0,1,21.983,22.94ZM14.668,8.064a1.512,1.512,0,0,0-1.526,1.493v3.809a1.535,1.535,0,0,0,3.069,0V9.557A1.521,1.521,0,0,0,14.668,8.064Z" transform="translate(0 11.593)" fill="#ff4949"/>
+        <path id="Fill_4" data-name="Fill 4" d="M19.072,9.317v2.539a7.17,7.17,0,0,0-1.93-.257H16V9.317A6.392,6.392,0,0,0,9.545,3,6.4,6.4,0,0,0,3.07,9.283V11.6H1.948A6.591,6.591,0,0,0,0,11.874V9.317A9.44,9.44,0,0,1,9.51,0a9.43,9.43,0,0,1,9.562,9.317" transform="translate(5.141 0)" fill="#ff4949" opacity="0.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

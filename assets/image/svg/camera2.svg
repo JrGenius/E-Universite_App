@@ -1,0 +1,11 @@
+<svg id="Iconly_Bold_Camera" data-name="Iconly/Bold/Camera" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="18" viewBox="0 0 20 18">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Camera" transform="translate(0)">
+    <path id="Camera-2" data-name="Camera" d="M15.64,18H4.36A4.362,4.362,0,0,1,0,13.645V7.711A4.362,4.362,0,0,1,4.36,3.356a.2.2,0,0,0,.191-.12l.059-.12.083-.175c.261-.55.557-1.173.737-1.533A2.433,2.433,0,0,1,7.64,0h4.71a2.44,2.44,0,0,1,2.22,1.408c.157.315.4.82.627,1.308l.142.3.1.22a.225.225,0,0,0,.2.12A4.362,4.362,0,0,1,20,7.711v5.934A4.362,4.362,0,0,1,15.64,18ZM10,6.4A3.922,3.922,0,0,0,7.21,7.562a3.867,3.867,0,0,0-1.14,2.767A3.924,3.924,0,0,0,10,14.254a3.9,3.9,0,0,0,2.77-1.148,3.915,3.915,0,0,0,.01-5.554A3.9,3.9,0,0,0,10,6.4Zm5.61-.239a.9.9,0,1,0,.911.909A.906.906,0,0,0,15.61,6.163ZM10,12.756a2.423,2.423,0,0,1-2.43-2.427v-.01a2.337,2.337,0,0,1,.7-1.7A2.43,2.43,0,1,1,10,12.756Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

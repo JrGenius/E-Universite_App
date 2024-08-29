@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Arrow_-_Left_2_Background_Mask_" data-name="Arrow - Left 2 (Background/Mask)" width="16" height="16" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Arrow_-_Left_2" data-name="Arrow - Left 2" transform="translate(0 16) rotate(-90)">
+    <rect id="Arrow_-_Left_2_Background_Mask_2" data-name="Arrow - Left 2 (Background/Mask)" width="16" height="16" transform="translate(0 0)" fill="none"/>
+    <g id="Arrow_-_Left_2-2" data-name="Arrow - Left 2" clip-path="url(#clip-path)">
+      <g id="Iconly_Light_Outline_Arrow_Left_2" data-name="Iconly/Light Outline/Arrow   Left 2" transform="translate(5.167 2.833)">
+        <g id="Arrow_Left_2" data-name="Arrow   Left 2">
+          <path id="Stroke_1" data-name="Stroke 1" d="M.8.1.854.146,5.167,4.459,9.48.146A.5.5,0,0,1,10.131.1l.056.048A.5.5,0,0,1,10.235.8l-.048.056L5.52,5.52a.5.5,0,0,1-.651.048L4.813,5.52.146.854A.5.5,0,0,1,.8.1Z" transform="translate(0 10.333) rotate(-90)" fill="#a9aeb2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
